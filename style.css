@@ -1,4 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
+
+body{
+    background-image: url(/img/winter-snow.jpg);
+
+}
+
+
+.rubrik{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    border: 5px solid black;
+}
+
+h1{
+    background-color: #575863;
+    color: #f7f3a1;
+    font-family: roboto mono;
+}
 
 ul{
     list-style: square;
